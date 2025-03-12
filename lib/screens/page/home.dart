@@ -18,7 +18,10 @@ class Home extends StatelessWidget {
         actions: [
           Container(
             padding: EdgeInsets.fromLTRB(10, 10, 5, 10),
-            child: Icon(Iconsax.notification_),
+            child: Icon(Iconsax.notification_bing_outline),
+          ),
+          Container(
+            padding: EdgeInsets.fromLTRB(5, 10, 10, 5),
           )
         ],
       ),
