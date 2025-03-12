@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../../../home/widgets/home.dart';
 
-class Home extends StatelessWidget {
-  const Home({super.key});
+class FAppbar extends StatelessWidget {
+  const FAppbar({super.key});
 }
 
 @override
